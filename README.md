@@ -6,8 +6,7 @@ na 1ª SeComp do IFSP/Catanduva.
 
 ### Exemplo de Uso
 
-```
-#!python
+```python
 
 import buscarcep
 buscarcep.numero('15808305')
